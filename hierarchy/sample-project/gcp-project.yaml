@@ -1,0 +1,7 @@
+apiVersion: bespin.dev/v1
+kind: Project
+metadata:
+  name: sample-project
+spec:
+  displayName: My Sample Project
+  id: causal-axle-231205
